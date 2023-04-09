@@ -30,9 +30,9 @@ tbody {
 
 table {
   position: absolute;
-  top: 100px;
+  top: 50%;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translate(-50%, -50%);
 }
 @media (max-width: 1157px) {
   table {
